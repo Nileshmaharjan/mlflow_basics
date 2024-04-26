@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nileshmaharjan/Documents/mlflow/mlruns/0/6a1035d02a5f47f289f4549a2d8414ad/artifacts
+end_time: 1713854964676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1035d02a5f47f289f4549a2d8414ad
+run_name: unequaled-mare-607
+run_uuid: 6a1035d02a5f47f289f4549a2d8414ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713854964671
+status: 3
+tags: []
+user_id: nileshmaharjan

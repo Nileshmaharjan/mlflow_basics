@@ -1,0 +1,15 @@
+artifact_uri: /Users/nileshmaharjan/Documents/mlflow/serving_multiple_models/b32532ce0e7146caa59fa6846bdcc729/artifacts
+end_time: 1713918890100
+entry_point_name: ''
+experiment_id: '340222625669785920'
+lifecycle_stage: active
+run_id: b32532ce0e7146caa59fa6846bdcc729
+run_name: multiple_models
+run_uuid: b32532ce0e7146caa59fa6846bdcc729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713918889270
+status: 3
+tags: []
+user_id: nileshmaharjan

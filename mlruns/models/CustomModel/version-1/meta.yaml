@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713922643581
+current_stage: None
+description: null
+last_updated_timestamp: 1713922643581
+name: CustomModel
+run_id: 703f1406cffa4564af64771224dcab47
+run_link: null
+source: /Users/nileshmaharjan/Documents/mlflow/model_registry_artifacts/703f1406cffa4564af64771224dcab47/artifacts/custom_model
+status: READY
+status_message: null
+storage_location: /Users/nileshmaharjan/Documents/mlflow/model_registry_artifacts/703f1406cffa4564af64771224dcab47/artifacts/custom_model
+user_id: null
+version: 1

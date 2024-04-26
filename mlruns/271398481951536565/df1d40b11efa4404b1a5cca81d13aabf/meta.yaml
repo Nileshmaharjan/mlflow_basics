@@ -1,0 +1,15 @@
+artifact_uri: /Users/nileshmaharjan/Documents/mlflow/testing_mlflow1_artifacts/df1d40b11efa4404b1a5cca81d13aabf/artifacts
+end_time: 1713856145302
+entry_point_name: ''
+experiment_id: '271398481951536565'
+lifecycle_stage: active
+run_id: df1d40b11efa4404b1a5cca81d13aabf
+run_name: logging_artifacts
+run_uuid: df1d40b11efa4404b1a5cca81d13aabf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713856145296
+status: 3
+tags: []
+user_id: nileshmaharjan
